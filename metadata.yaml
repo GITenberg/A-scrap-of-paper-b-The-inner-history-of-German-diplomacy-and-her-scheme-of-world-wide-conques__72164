@@ -1,0 +1,38 @@
+_repo: A-scrap-of-paper-b-The-inner-history-of-German-diplomacy-and-her-scheme-of-world-wide-conques__72164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dillon, Emile Joseph
+    aliases:
+    - Dillon, E. J. (Emile Joseph)
+    - Lanin, E. B.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '2691'
+    url: http://www.gutenberg.org/2009/agents/2691
+    wikipedia: https://en.wikipedia.org/wiki/E._J._Dillon
+description: ''
+edition_note: 3rd edition.
+gutenberg_issued: '2023-11-18'
+identifiers:
+  gutenberg: '72164'
+  lccn: '15005606'
+language: en
+pgterms:marc904: https://archive.org/details/scrapofpaperinne00dill/page/86/mode/2up
+pgterms:marc905: 20200428005038dillon
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bHodder & Stoughton, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Germany -- Foreign relations'
+- !lcc 'D501'
+- GITenberg
+title: 'A scrap of paper : $b The inner history of German diplomacy and her scheme
+  of world-wide conquest'
+url: http://www.gutenberg.org/ebooks/72164
