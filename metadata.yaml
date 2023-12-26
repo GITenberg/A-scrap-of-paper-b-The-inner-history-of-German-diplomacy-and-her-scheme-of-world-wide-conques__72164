@@ -1,5 +1,8 @@
 _repo: A-scrap-of-paper-b-The-inner-history-of-German-diplomacy-and-her-scheme-of-world-wide-conques__72164
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72164-h/images/cover.jpg
 creator:
   author:
     agent_name: Dillon, Emile Joseph
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2691
     wikipedia: https://en.wikipedia.org/wiki/E._J._Dillon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72164#A-scrap-of-paper-b-The-inner-history-of-German-diplomacy-and-her-scheme-of-world-wide-conques_
 edition_note: 3rd edition.
 gutenberg_issued: '2023-11-18'
 identifiers:
